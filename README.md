@@ -4,13 +4,13 @@
 1. Cleaning
 
 We started the cleaning process by identifying any duplicate entries in the dataset.  We also corrected any errors in 
-the dataset, such as missing or incorrect values. We used the Z-Score methodology. We used this methodology to identify 
-and remove duplicate entries as well as correct any errors within the dataset.
+the dataset, such as missing or incorrect values. We identified
+and removed duplicate entries, we used the Z-Score methodology correct any deviations within the dataset.
 
 2. Normality Assessment
 
 To assess the normality of our data distribution. This plot helped us visualize whether the data follows a normal 
-distribution or not. Data followed a normal distribution.
+distribution or not. 
 
 3. Statistical hypothesis test
 
@@ -32,11 +32,12 @@ present.
 
 6. Data Mining:
 
-The purpose of defining a list of regular expressions (patterns) in this code is to facilitate the automatic extraction 
+We extracted abstracts of publications from PubMed database that contain datasets with T2D and HTN conditions. We 
+then applied a list of regular expressions (patterns) to facilitate the automatic extraction 
 of the number of participants used in several studies from a collection of text abstracts. By including various synonyms
 for the term 'participants', such as 'subjects', 'patients', 'individuals', and others, the regular expressions are 
 intended to match a wide range of possible strings within the text that represent the number of participants in each 
-study. By automating this process, the code aims to save time and effort compared to manually reviewing each abstract 
+study. By automating this process, the code aimed to save time and effort compared to manually reviewing each abstract 
 and extracting this information by hand.
 
 ## Data availability
