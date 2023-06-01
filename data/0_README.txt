@@ -4,7 +4,7 @@ Last updated: 2022-05-03.
 -------------------
 GENERAL INFORMATION
 -------------------
-Title of Dataset: Type 2 Diabetes publications in Ethiopia
+Title of Dataset: Type 2 Diabetes/Hyperpertension publications in Ethiopia
 Contact Information
 
      Name: Pavel Vazquez Faci
@@ -14,5 +14,10 @@ Contact Information
 
 
 Contributors: Simon Rayner.
-Kind of data: Publication data from Pubmed database (https://pubmed.ncbi.nlm.nih.gov/about/)(February 2023)
+Kind of data: Publication data from Pubmed database (https://pubmed.ncbi.nlm.nih.gov/about/)(February 2023). 
+Selection: Search terms "(ethiopia) AND (data*) AND ((type 2 diabetes) OR hypertension OR T2D OR HTN)" which gave 853 results. 
+The result was manually curated to select the entries that had dataset availability, resulting in 105 manuscripts.
+
+
+
 
